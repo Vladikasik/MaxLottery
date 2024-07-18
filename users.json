@@ -1,0 +1,10 @@
+{
+    "users": [
+        {
+            "Name": "Влад Айнштейн",
+            "username": "vladislav_ain",
+            "age": 19,
+            "tx_id": "test"
+        }
+    ]
+}
